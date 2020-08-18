@@ -12,6 +12,8 @@ public class MyOwnClass {
 		
 		System.out.println("This is the second commit from remote master");
 		
+		System.out.println("First commit from Memet branch");
+		
 	}
 	
 
