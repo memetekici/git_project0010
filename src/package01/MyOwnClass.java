@@ -14,6 +14,8 @@ public class MyOwnClass {
 		
 		System.out.println("First commit from Memet branch");
 		
+		System.out.println("The second commit from local Memet");
+		
 	}
 	
 
